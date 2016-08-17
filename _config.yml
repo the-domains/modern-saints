@@ -1,0 +1,14 @@
+layout_spectrum: 0.02466931869275868
+typography_spectrum: 0.760850157123059
+color:
+  brandStrength: 0.11423118808306754
+  lightness: 0.7274535407777876
+  saturation: 0.9100201798137277
+  rhythmicContrast: 0.8412677522283047
+  brandColors:
+    - '#100E1C'
+    - '#EAE8DC'
+    - '#554A58'
+    - '#8F8A87'
+    - '#6F646C'
+name: modern saints
